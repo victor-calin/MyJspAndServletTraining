@@ -4,3 +4,6 @@
 and Sevlet application that connects to a database.
  The app is design to cover the main topics from "JSP, Servlets and JDBC 
 for Beginners" training course on Udemy platform.
+
+The PDF file "stepByStepOvierview" containes a full description of the steps 
+I took in finishing the project.
